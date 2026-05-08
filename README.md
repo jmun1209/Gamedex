@@ -112,3 +112,7 @@ ng serve
 ```
 
 Open [http://localhost:4200](http://localhost:4200).
+
+App deployment link: https://gamedex-i5kn.onrender.com/
+
+Video presentation link: https://youtu.be/ylBaNzwaZH0
